@@ -1,0 +1,17 @@
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.csproj.AssemblyReference.cache
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.AssemblyInfoInputs.cache
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.AssemblyInfo.cs
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.csproj.CoreCompileInputs.cache
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/MizeAssignment.deps.json
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/MizeAssignment.runtimeconfig.json
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/MizeAssignment.runtimeconfig.dev.json
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/MizeAssignment.dll
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/MizeAssignment.pdb
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.dll
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.pdb
+/Users/davidilous/MizeAssignment/obj/Debug/netcoreapp2.1/MizeAssignment.genruntimeconfig.cache
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.testadapter.dll
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/xunit.abstractions.dll
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/xunit.runner.reporters.net452.dll
+/Users/davidilous/MizeAssignment/bin/Debug/netcoreapp2.1/xunit.runner.utility.net452.dll
